@@ -2,4 +2,4 @@
 
 ## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
 
-![preview img](/preview.png)
+Link to the website [Hinga](https://vichinga.github.io/portfolio/)
